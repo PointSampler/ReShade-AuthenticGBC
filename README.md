@@ -9,9 +9,9 @@ The original is a [libretro slang shader](https://github.com/libretro/slang-shad
 this port packages it as a single self-contained `.fx` so it can be used in any
 game or emulator that supports ReShade, on any rendering backend.
 
-[Authentic GBC for ReShade running on Mina the Hollower - Main Menu](https://github.com/PointSampler/ReShade-AuthenticGBC/blob/main/screenshots/mina-menu.png "Main Menu")
+<img width="2560" height="1440" alt="Authentic GBC for ReShade running on Mina the Hollower - Menu" src="https://github.com/user-attachments/assets/e8788880-ac7a-4581-b4a6-5424b52bdbf9" />
 
-[Authentic GBC for ReShade running on Mina the Hollower - Ingsame](https://github.com/PointSampler/ReShade-AuthenticGBC/blob/main/screenshots/mina-ingame.png "Ingame")
+<img width="2560" height="1440" alt="Authentic GBC for ReShade running on Mina the Hollower - Ingame" src="https://github.com/user-attachments/assets/6847cf4d-b1ea-4a15-8a46-1d41a811efcb" />
 
 *The screenshots show Mina the Hollower © Yacht Club Games, used under their
 [video/content policy](https://www.yachtclubgames.com/video-policy/) to demonstrate the shader.*
